@@ -1,3 +1,4 @@
+<?= view('components/head', ['page' => 'menu']); ?>
 <?= view('components/header'); ?>
 
 <main class="menu-page">
